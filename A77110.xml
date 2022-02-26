@@ -1,0 +1,496 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Herod and Pilate reconciled. A new dialogue betwixt a malignant and an Independent.</title>
+            <title>Herod and Pilate reconciled. Part 2</title>
+            <author>Bostock, Robert, d. 1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77110</idno>
+            <idno type="STC">Wing B3794</idno>
+            <idno type="STC">Thomason E387_6</idno>
+            <idno type="STC">ESTC R201494</idno>
+            <idno type="EEBO-CITATION">99861998</idno>
+            <idno type="PROQUEST">99861998</idno>
+            <idno type="VID">114145</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114145)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E387[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Herod and Pilate reconciled. A new dialogue betwixt a malignant and an Independent.</title>
+                  <title>Herod and Pilate reconciled. Part 2</title>
+                  <author>Bostock, Robert, d. 1656.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Robert Bostock by Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "May 15th 1647"; "Rob: Bostock".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114145:1" rendition="simple:additions"/>
+            <head>HEROD and PILATE reconciled.</head>
+            <head type="sub">A New Dialogue betwixt a <hi>Malignant</hi> and an <hi>Independent.</hi>
+            </head>
+            <sp>
+               <speaker>M.</speaker>
+               <l>YOur Servant, Brother. What's the news ſince we</l>
+               <l>Did laſt confer? Doth Independency</l>
+               <l>Thrive, and grow pregnant? Doth it now increaſe</l>
+               <l>Ith Aſſociate Counties? ſhall we have peace?</l>
+               <l>Speak, brother, all amort? ſtrange alteration,</l>
+               <l>Come you late from ſome new Congregation?</l>
+               <l>Me thinks you ſeem diſtracted: what not well?</l>
+               <l>Do our Deſignes miſcarry? Brother, tell</l>
+               <l>Your dear companion; come, the worſt of all</l>
+               <l>Will not diſcourage us: we cannot fall</l>
+               <l>Lower then now we are: brother if we</l>
+               <l>Shall ever riſe, thank Independency.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>O my dear brother, 'tis thoſe fatall Votes</l>
+               <l>Lately 'ith Houſe, which makes us change our Notes;</l>
+               <l>We muſt disband our Army: and to ſee</l>
+               <l>Our godly party in ſuch agonie,</l>
+               <l>Will move a heart of ſtone; a day of doome,</l>
+               <l>Of gloomy ſadneſſe: 'mongſt us thoſe that come</l>
+               <l>Newly from <hi>Colecheſter,</hi> will tell you more</l>
+               <l>Of this ſad news, then ere you heard before.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>I ſmell a plot from <hi>Scotland,</hi> ſome ſuch thing</l>
+               <l>I heard a wiſper of; but whileſt the King</l>
+               <l>Is ſafe at <hi>Homeby:</hi> what need you to fear</l>
+               <l>Cannot your conquering Army fetch him there,</l>
+               <l>And guard him to the City: ſoon you'l ſee</l>
+               <l>An alteration with <hi>Presbyterie.</hi>
+               </l>
+            </sp>
+            <pb n="2" facs="tcp:114145:2"/>
+            <sp>
+               <speaker>I.</speaker>
+               <l>But brother, there's more; the <hi>Militia's</hi> put</l>
+               <l>Into the Common Councels hands: we are ſhut</l>
+               <l>Quite out of all: and this new Tyranny</l>
+               <l>More odious to us far than Prelacy,</l>
+               <l>Muſt now command us: we will not endure</l>
+               <l>Such baſe affronts from them.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>No brother, ſure</l>
+               <l>Disband not.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>We the preſervers, to be</l>
+               <l>So ſleighted, not regarded; and to ſee</l>
+               <l>
+                  <hi>Skippon</hi> and <hi>Maſsie</hi> both preferr'd: and theſe</l>
+               <l>The City Favourites.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Sad progedies.</l>
+               <l>We have been active, brother, but of late</l>
+               <l>Our combs are cut; we moſt unfortunate.</l>
+               <l>But what will <hi>Skippon</hi> go their <hi>Fabius,</hi>
+               </l>
+               <l>Their man, ſo wiſe, ſo ſolid, and Religious?</l>
+               <l>In <hi>Cornwall,</hi> brother, we muſt needs confeſſe</l>
+               <l>His valiant ſervice in their great diſtreſſe.</l>
+               <l>And maugre all, the Sectaries muſt yeeld</l>
+               <l>That he deſerved beſt at <hi>Naſeby</hi> Field.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>Brother, had he been but Independent,</l>
+               <l>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rigg ſhould have made his actions more tranſcendent.</l>
+            </sp>
+            <sp>
+               <speaker>M</speaker>
+               <l>But ſhall their <hi>Fabius</hi> and <hi>Marcellus</hi>
+               </l>
+               <l>Be joyn'd together?</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>O this doth quell us.</l>
+               <l>Brother, theſe muſt command, and 'tis not we</l>
+               <l>With all our plots, deſignes, and policie,</l>
+               <l>Can now prevent their choice: except there be</l>
+               <l>In our disbanding ſome grand mutiny.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Is there no hope of that? me thinks your zeal</l>
+               <l>Might animate the Souldiers to appeal</l>
+               <l>To all the Countreys: and 'tis <hi>Lilborns</hi> ſence,</l>
+               <l>You may complain o'th' Houſe for this offence.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>O but the City, brother, and theſe <hi>Scots</hi>
+               </l>
+               <l>Are cunning, ſubtill, to prevent our plots.</l>
+               <pb n="3" facs="tcp:114145:2"/>
+               <l>They have a major part i'th Houſe; and then</l>
+               <l>Adviſe, how to oppoſe theſe craftie men.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Send frantick <hi>Peters</hi> down, and let him there</l>
+               <l>Belch out his ſurious raptures; twill go neer</l>
+               <l>To work an alteration: we muſt lend</l>
+               <l>Our beſt aſſiſtance now: ſome Notes from us</l>
+               <l>May do you ſervice.</l>
+            </sp>
+            <sp>
+               <speaker>I</speaker>
+               <l>Help from <hi>Aulicus,</hi>
+               </l>
+               <l>Or any other; our neceſſity</l>
+               <l>Makes us not ſcrupulous of Malignity.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Let <hi>Lilly</hi> raiſe new ſpirits; let there be</l>
+               <l>A Combination, brother, ſuddenly.</l>
+               <l>A <hi>Junto</hi> gathered of Eraſtians,</l>
+               <l>To wrangle out theſe <hi>Presbyterians.</hi>
+               </l>
+               <l>Let Turn coats be advanc't, and let none have</l>
+               <l>Preferment now, but ſuch as will turn knave.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>Brother, 'tis good advice, I am glad to ſee</l>
+               <l>
+                  <hi>Herod</hi> and <hi>Pilate</hi> both ſo well agree.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>But is it likewiſe true, ſhall <hi>Maſsie</hi> he</l>
+               <l>Be honour'd now: that in neceſſity</l>
+               <l>Kept <hi>Gloſter</hi> ſafe: and afterwards did take</l>
+               <l>So many Garriſons, and made us quake?</l>
+               <l>Shall he that did ſuch ſervice in the <hi>Weſt</hi>
+               </l>
+               <l>Be lookt on now, brother, who can diſgeſt</l>
+               <l>Such Votes.</l>
+            </sp>
+            <sp>
+               <speaker>I</speaker>
+               <l>Nay more, <hi>Cromwell, Hammond, Ireton</hi>
+               </l>
+               <l>Are layed aſide: <hi>Maſsie, Jones,</hi> and <hi>Skippon,</hi>
+               </l>
+               <l>They muſt command in <hi>Ireland: M.</hi> then I fear</l>
+               <l>Small crums of Comfort ever will appear</l>
+               <l>To help our dying cauſe, ſure ſoon muſt we</l>
+               <l>Give up the ghoſt with Independency.</l>
+               <l>Except, my brother, we can finde ſome way</l>
+               <l>Some fine deſigne or other, to delay</l>
+               <l>
+                  <hi>Skippon</hi> and <hi>Maſsie,</hi> that they be not ſent</l>
+               <pb n="4" facs="tcp:114145:3"/>
+               <l>To <hi>Ireland;</hi> leſt too late we do repent.</l>
+               <l>Yet if you ſend them over; clog them there</l>
+               <l>With ſuch Commiſſioners: that you need not fear.</l>
+               <l>Let <hi>Daviſe</hi> buy proviſions; let there be</l>
+               <l>To him but granted a Monopoly.</l>
+               <l>Let ſuch command the bagge: who will not give</l>
+               <l>Any Account, dear brother, whileſt they live.</l>
+               <l>Me thinks your H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckney, Penny Pamphleteers</l>
+               <l>May raiſe ſome ſcandals 'gainſt them, ſome odde jears.</l>
+               <l>Every weeks Diurnall, may do ſome feats.</l>
+               <l>
+                  <hi>Peck</hi> is your Mercenary: and ſuch cheats.</l>
+               <l>To undeceive the people would do well,</l>
+               <l>Let <hi>Dillinghan</hi> be ſent for, he can ſwell</l>
+               <l>His ſheet and half to countenance your Tribe,</l>
+               <l>Stitch a Conceit or two, your Moderate Scribe,</l>
+               <l>You muſt confer with him; and <hi>Walker</hi> too.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>Brother, they all are <hi>Knaves,</hi> and will undoo</l>
+               <l>Our god<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y party; ſtay, obſerve a while,</l>
+               <l>You'l ſee them turn-coats, and their friends beguil.</l>
+               <l>
+                  <hi>Lilborn</hi> I like not, brother, you will ſee</l>
+               <l>That man prove falſe to <hi>Independency.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Admit he do; yet <hi>Davy Jenkins</hi> late</l>
+               <l>Defends your Cauſe.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>A man unfortunate.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>But be not yet diſcourag'd; ſome more plots</l>
+               <l>The King is working; let us not be ſorts.</l>
+               <l>But active, vigilant, we may recall</l>
+               <l>Theſe Votes amongſt our friends; if this be all.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>No brother, there is more, the Houſe did ſend</l>
+               <l>To the City I rely to deſire them lend</l>
+               <l>Two hundred thouſand pound, and told them there</l>
+               <l>We ſhould disband, <hi>Skippon</hi> and <hi>Maſſie</hi> were</l>
+               <l>The men for <hi>Ireland:</hi> told them they ſhould ſee</l>
+               <pb n="5" facs="tcp:114145:3"/>
+               <l>The Houſe would grant them all ſecurity.</l>
+               <l>
+                  <hi>Newcaſtle,</hi> brother, they will have; if we</l>
+               <l>Had but kept that for our fraternity,</l>
+               <l>We might have curb'd proud <hi>London,</hi> and have ſeen</l>
+               <l>The <hi>Presbyterian</hi> bend for all then ſpleen.</l>
+               <l>Yet more, to adde unto our miſery,</l>
+               <l>Of <hi>Goldſmiths Hall</hi> they have the moity.</l>
+               <l>Beſides I fear, my brother, you will finde</l>
+               <l>An Anſwer ſhortly to the Cities minde</l>
+               <l>About their curſ'd <hi>Remonſtrance;</hi> they have choſe</l>
+               <l>A new <hi>Militia;</hi> that will us oppoſe.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Would not the <hi>Gibeonites,</hi> your friends, once ſpeak</l>
+               <l>Some long-breath'd ſpeech or other: but to break</l>
+               <l>This horrid Combination: they uſ'd to make</l>
+               <l>Some <hi>Remora</hi> heretofore, which did take</l>
+               <l>Amongſt the vulgar.</l>
+            </sp>
+            <sp>
+               <speaker>I</speaker>
+               <l>O but now of late</l>
+               <l>Their ſpeeches, brother, are unfortunate.</l>
+               <l>Dull was their Oratory to perſwade</l>
+               <l>The City a Gariſon to be made.</l>
+               <l>O had that plot but taken, brother, we</l>
+               <l>Had raiſ'd them Trophees to poſterity.</l>
+               <l>Our friends had then commanded. Who durſt be</l>
+               <l>In oppoſition to us?</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Prelacy</l>
+               <l>Might then had hopes, my brother, to have ſeen</l>
+               <l>A bleſſed toleration; and have been</l>
+               <l>A ſpeciall help to Independency,</l>
+               <l>In all aſſaults againſt Presbytery.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>I know it brother.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>And it is moſt true,</l>
+               <l>We have a <hi>Presbyter</hi> as much as you</l>
+               <l>I grieve to ſee you ſad, and penſive.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>And when</l>
+               <l>Shall we be merry?</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Sure thoſe men</l>
+               <l>Might have been more active, when they did ſee</l>
+               <pb n="6" facs="tcp:114145:4"/>
+               <l>Such dangerous plotting by Presbyterie.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>The men were cunning, but yet all their guile</l>
+               <l>Could not inſinuate to delay a while</l>
+               <l>This new Committee: that we might but pawſe</l>
+               <l>And ſend a Poſt to the Army: our Cauſe</l>
+               <l>Lyes bleeding, brother: O the time is come</l>
+               <l>That Prophet <hi>Sedgwick</hi> tels the day of Doom,</l>
+               <l>I ſhake, and faint, brother, except there be</l>
+               <l>Some comfort left for <hi>Independency.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>I'le help you brother, there's ſuch ſwarmes of late</l>
+               <l>Of ſtrange prodigious Sects teem'd in this State,</l>
+               <l>Who all will joyn with you; and ſo ſhall we</l>
+               <l>To overthrow this vile <hi>Presbyterie.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>I</speaker>
+               <l>Theſe are ſome hopes of Comfort; will the King</l>
+               <l>Joyn, and combine with us, if that we bring</l>
+               <l>His Majeſty to <hi>London:</hi> a toleration</l>
+               <l>Will he ſubſcribe for us o'th Seperation?</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Be confident, my Brother, there is come</l>
+               <l>A Diſpenſation from the Queen, at <hi>Rome,</hi>
+               </l>
+               <l>And <hi>Italy,</hi> they pray, and long to ſee</l>
+               <l>The good ſucceſſe of <hi>Independency.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>And is this true?</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Moſt true, the King of late</l>
+               <l>Will joyn with any, he's ſo deſperate.</l>
+               <l>No plot will take in <hi>Scotland,</hi> nor no new</l>
+               <l>Deſignes in <hi>France,</hi> or <hi>Ireland.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>Is this true?</l>
+               <l>Then we have hopes the King will joyn with us,</l>
+               <l>So ſhall we make our ſelves victorious.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>I will adviſe you, brother, let there be</l>
+               <l>Some more Petitions for Indemnity</l>
+               <l>By the Royall aſſent: that phraſe did well</l>
+               <l>To pleaſe the King and us: let <hi>Saltmarſh, Dell</hi>
+               </l>
+               <l>Hint on that Text more often; it will raiſe</l>
+               <pb n="7" facs="tcp:114145:4"/>
+               <l>A Faction; we Royaliſts now do praiſe</l>
+               <l>The Independent party: you do ſee</l>
+               <l>How we do hug your laſt Apology.</l>
+               <l>Your Vindication, brother, we admire,</l>
+               <l>And ſwear all's juſt and honeſt you deſire.</l>
+               <l>Nothing we fear ſo much but <hi>Skippon,</hi> he</l>
+               <l>Will ſo prevail; ſuppreſſe the mutiny,</l>
+               <l>Which we rejoyce to hear.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>Brother, 'tis late,</l>
+               <l>I thank you kindly for this good debate.</l>
+               <l>We ſhall be ſure we never will agree</l>
+               <l>Before we pull down the <hi>Presbyterie.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Adeu, dear brother, untill next wee meet</l>
+               <l>To proſtrate our ſelves at His Sacred feet.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
